@@ -1,0 +1,44 @@
+#pic
+ {
+    left: 0px;
+    position: relative;
+    top: 1px;
+    width: 25px;
+} 
+#pic a .large
+ {
+    border: 0px;
+    display: block;
+    height: 1px;
+    left: -1px;
+    position: absolute;
+    top: -1px;
+    width: 1px;
+}
+#pic a img 
+{
+    border: 0;
+}
+#pic a.p1, #pic a.p1:visited
+{
+    height: 20px;
+    left: 0;
+    text-decoration: none;
+    top: 0;
+    width: 35px;
+}
+#pic a.p1:hover
+{
+     text-decoration: none;
+}
+#pic a.p1:hover .large
+{
+    border: 1px solid #000000;
+    display: block;
+    height: 268px;
+    left: -600px;
+    position: absolute;
+    top: 85px;/*- mas abajo + mas arriba*/
+    width: 540px;
+}
+	
