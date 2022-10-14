@@ -1,0 +1,87 @@
+FORM {
+	MARGIN: 0px 0px 0px 0px;
+	border : 0px;
+	border-bottom-width : 0px;
+	border-left-width : 0px;
+	border-right-width : 0px;
+	border-top-width : 0px;
+	border-width : 0px 0px 0px 0px;
+}
+BODY {
+	BACKGROUND-COLOR: white; FONT-FAMILY: Arial; MARGIN-LEFT: 0em; MARGIN-TOP: 0em
+}
+LI P {
+	MARGIN-BOTTOM: 1.25em; MARGIN-TOP: 0.75em
+}
+UL {
+	LIST-STYLE: disc
+}
+UL.onestep {
+	LIST-STYLE: disc
+}
+#HeadTop {
+	LEFT: 8px; POSITION: absolute; TOP: 10px
+}
+#globalS {
+	LEFT: 8px; POSITION: absolute; TOP: 10px
+}
+#Head1 {
+	LEFT: 8px; POSITION: absolute; TOP: 10px
+}
+#Menu1 {
+	LEFT: 16px; POSITION: absolute
+}
+#Head2 {
+	LEFT: 8px; POSITION: absolute
+}
+#Menu2 {
+	LEFT: 16px; POSITION: absolute
+}
+#Head3 {
+	LEFT: 8px; POSITION: absolute
+}
+#Menu3 {
+	LEFT: 16px; POSITION: absolute
+}
+#Head4 {
+	LEFT: 8px; POSITION: absolute
+}
+#Menu4 {
+	LEFT: 16px; POSITION: absolute
+}
+#Head5 {
+	LEFT: 8px; POSITION: absolute
+}
+#Menu5 {
+	LEFT: 16px; POSITION: absolute
+}
+#Head6 {
+	LEFT: 8px; POSITION: absolute
+}
+#Menu6 {
+	LEFT: 16px; POSITION: absolute
+}
+#HeadBottom {
+	LEFT: 8px; POSITION: absolute
+}
+A {
+	COLOR: #000080
+}
+A.visited {
+	COLOR: #ff0000
+}
+A:hover {
+	COLOR: #ffdd00
+}
+A.roll {
+	COLOR: #000080; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A.roll:hover {
+	COLOR: #ff00CC; TEXT-DECORATION: underline
+}
+A.nav {
+	COLOR: #000000; FONT-SIZE: 7pt; TEXT-DECORATION: none
+}
+A.nav:hover {
+	COLOR: #ff0000
+}
